@@ -24,8 +24,16 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-neon-chi.vercel.app/api?username=mantougg&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=mantougg&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-neon-chi.vercel.app/api?username=mantougg&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-neon-chi.vercel.app/api?username=mantougg&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-neon-chi.vercel.app/api?username=mantougg&show_icons=true&theme=default&hide_border=true" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=mantougg&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=mantougg&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=mantougg&layout=compact&theme=default&hide_border=true" height="165" />
+  </picture>
 </p>
 
 ### 📫 Find Me
