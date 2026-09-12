@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mantougg&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantougg&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-neon-chi.vercel.app/api?username=mantougg&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=mantougg&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ### 📫 Find Me
