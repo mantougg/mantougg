@@ -1,7 +1,10 @@
+                                                                   
 ## Hi, I'm mantougg 👋
 
 前端开发工程师，最近在 vibe coding 桌面应用——用 Rust + Tauri + Vue 造了
 [GitWorkspace](https://github.com/mantougg/git-workspace)，一个跨平台的 Git 工作区管理工具。
+
+[![Homepage](https://img.shields.io/badge/Homepage-wlshow.space-C4442C)](https://wlshow.space)
 
 - 🔭 正在做：GitWorkspace —— 多项目 Git 工作区管理桌面应用
 - 🌱 在玩：Rust / Tauri / AI Agent 协作开发
@@ -38,5 +41,6 @@
 
 ### 📫 Find Me
 
+- Homepage：[wlshow.space](https://wlshow.space)
 - GitHub：[@mantougg](https://github.com/mantougg)
 - Email：mantougg@gmail.com
